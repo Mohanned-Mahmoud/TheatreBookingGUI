@@ -25,10 +25,10 @@
    git clone https://github.com/Mohanned-Mahmoud/TheatreBookingGUI.git
 3. Navigate to the project directory:
    ```sh
-      cd TheatreBookingGUI
+   cd TheatreBookingGUI
 5. Compile the Java files:
    ```sh
    javac TheatreBookingGUI.java WelcomePage.java
 7. Run the application:
      ```sh
-       java WelcomePage
+     java WelcomePage
